@@ -22,6 +22,7 @@
         'base_import',
         'base_setup',
         'base_technical_features',
+        'bt_helper',
         'configure_odoo',
         'grid',
         'report',
